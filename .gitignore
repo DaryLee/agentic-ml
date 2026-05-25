@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.env
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+run.log
+plots/
+history/
+results.tsv
+experiment_run.log
+data/
